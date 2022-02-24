@@ -1,8 +1,8 @@
-.paragraph_styling {
+.paragraph {
   font-size: 16px;
   text-align: center;
 }
 
-.paragraph_styling:hover {
+.paragraph:hover {
   color: red;
 }
