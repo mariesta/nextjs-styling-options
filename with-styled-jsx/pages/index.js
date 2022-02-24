@@ -1,17 +1,17 @@
 export default function Home() {
   return (
-    <div className="component">
+    <div className="paragraph">
       <style jsx>{`
-        .component {
+        .paragraph {
           font-size: 16px;
           text-align: center;
         }
 
-        .component:hover {
+        .paragraph:hover {
           color: red;
         }
       `}</style>
-      <p>I am a component styled with CSS-in-JS</p>
+      <p>I am a component styled with Styled-JSX</p>
     </div>
   )
 }
